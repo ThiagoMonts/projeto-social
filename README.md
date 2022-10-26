@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por Thiago Honorato [Você pode entrar em contato comigo por aqui](https://www.linkedin.com/in/honoratothiago/)
+Desenvolvido por [Thiago Honorato](https://www.linkedin.com/in/honoratothiago/)
